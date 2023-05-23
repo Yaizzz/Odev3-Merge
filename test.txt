@@ -1,1 +1,3 @@
 master branch 1 kommit için yazıldı.
+
+yeni isimli branch ilk kommit.
